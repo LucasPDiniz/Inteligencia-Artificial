@@ -1,0 +1,6 @@
+train: ../treino/images/train/
+val: ../treino/images/val/
+
+# Classes
+names:
+  0: placa
