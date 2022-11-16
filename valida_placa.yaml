@@ -1,5 +1,5 @@
-train: ../treino/images/train/
-val: ../treino/images/val/
+train: ../treino/images/treino/
+val: ../treino/images/valida/
 
 # Classes
 names:
